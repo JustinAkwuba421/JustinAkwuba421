@@ -1,4 +1,4 @@
-# Hi, I'm Justin Akwuba 
+# Hi there! Welcome to my GitHub profile! 
 
 I'm a Computer Science student at **Concordia University, St. Paul** (graduating December 2026), based in St. Paul, Minnesota. I'm especially interested in **AI and machine learning** and how they can be used to solve real problems and make people's jobs easier.
 
